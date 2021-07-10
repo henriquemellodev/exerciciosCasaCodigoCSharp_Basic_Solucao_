@@ -1,0 +1,10 @@
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\SolucaoCapitulo2\bin\Debug\SolucaoCapitulo2.exe.config
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\SolucaoCapitulo2\bin\Debug\SolucaoCapitulo2.exe
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\SolucaoCapitulo2\bin\Debug\SolucaoCapitulo2.pdb
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\SolucaoCapitulo2\obj\Debug\Matricula Aluno.csprojAssemblyReference.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\SolucaoCapitulo2\obj\Debug\SolucaoCapitulo2.Form1.resources
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\SolucaoCapitulo2\obj\Debug\SolucaoCapitulo2.Properties.Resources.resources
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\SolucaoCapitulo2\obj\Debug\Matricula Aluno.csproj.GenerateResource.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\SolucaoCapitulo2\obj\Debug\Matricula Aluno.csproj.CoreCompileInputs.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\SolucaoCapitulo2\obj\Debug\SolucaoCapitulo2.exe
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\SolucaoCapitulo2\obj\Debug\SolucaoCapitulo2.pdb

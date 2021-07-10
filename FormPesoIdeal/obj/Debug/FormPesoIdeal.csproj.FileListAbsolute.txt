@@ -1,0 +1,10 @@
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormPesoIdeal\bin\Debug\FormPesoIdeal.exe.config
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormPesoIdeal\bin\Debug\FormPesoIdeal.exe
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormPesoIdeal\bin\Debug\FormPesoIdeal.pdb
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormPesoIdeal\obj\Debug\FormPesoIdeal.csprojAssemblyReference.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormPesoIdeal\obj\Debug\FormPesoIdeal.Form1.resources
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormPesoIdeal\obj\Debug\FormPesoIdeal.Properties.Resources.resources
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormPesoIdeal\obj\Debug\FormPesoIdeal.csproj.GenerateResource.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormPesoIdeal\obj\Debug\FormPesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormPesoIdeal\obj\Debug\FormPesoIdeal.exe
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormPesoIdeal\obj\Debug\FormPesoIdeal.pdb

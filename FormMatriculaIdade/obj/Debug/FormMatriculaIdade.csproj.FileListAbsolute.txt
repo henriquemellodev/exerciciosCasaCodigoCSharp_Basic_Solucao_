@@ -1,0 +1,10 @@
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormMatriculaIdade\bin\Debug\FormMatriculaIdade.exe.config
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormMatriculaIdade\bin\Debug\FormMatriculaIdade.exe
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormMatriculaIdade\bin\Debug\FormMatriculaIdade.pdb
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormMatriculaIdade\obj\Debug\FormMatriculaIdade.csprojAssemblyReference.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormMatriculaIdade\obj\Debug\FormMatriculaIdade.Properties.Resources.resources
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormMatriculaIdade\obj\Debug\FormMatriculaIdade.csproj.GenerateResource.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormMatriculaIdade\obj\Debug\FormMatriculaIdade.csproj.CoreCompileInputs.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormMatriculaIdade\obj\Debug\FormMatriculaIdade.exe
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormMatriculaIdade\obj\Debug\FormMatriculaIdade.pdb
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo2\FormMatriculaIdade\obj\Debug\FormMatriculaIdade.FormIdade.resources
